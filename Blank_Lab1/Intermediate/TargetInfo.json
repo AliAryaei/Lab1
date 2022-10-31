@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Blank_Lab1",
+			"Path": "C:\\Users\\aliari-1-local\\Documents\\GitHub\\Unreal\\Blank_Lab1\\Source\\Blank_Lab1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Blank_Lab1Editor",
+			"Path": "C:\\Users\\aliari-1-local\\Documents\\GitHub\\Unreal\\Blank_Lab1\\Source\\Blank_Lab1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

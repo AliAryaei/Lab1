@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Blank_Lab1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\Blank_Lab1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\Blank_Lab1.cpp.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\Blank_Lab1GameModeBase.cpp.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\Blank_Lab1.init.gen.cpp.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\Blank_Lab1GameModeBase.gen.cpp.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\Default.rc2.res"
+/OUT:"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\UE4Editor-Blank_Lab1.lib"

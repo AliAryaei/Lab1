@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Blank_Lab1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B2270B9-573B-4BF8-A0F5-3B171BEF893D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Blank_Lab1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Blank_Lab1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0BA8D1BC-49D4-4D97-9071-5823B1C8884A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Blank_Lab1">
+      <UniqueIdentifier>{013A61B6-14BD-4528-A4E3-31A5582C39DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Blank_Lab1\Blank_Lab1.Build.cs">
+      <Filter>Source\Blank_Lab1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Blank_Lab1\Blank_Lab1.cpp">
+      <Filter>Source\Blank_Lab1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Blank_Lab1\Blank_Lab1.h">
+      <Filter>Source\Blank_Lab1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Blank_Lab1\Blank_Lab1GameModeBase.cpp">
+      <Filter>Source\Blank_Lab1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Blank_Lab1\Blank_Lab1GameModeBase.h">
+      <Filter>Source\Blank_Lab1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

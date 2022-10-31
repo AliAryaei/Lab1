@@ -1,0 +1,7 @@
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Development\Blank_Lab1\Definitions.Blank_Lab1.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Source\Blank_Lab1\Blank_Lab1GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Blank_Lab1\Intermediate\Build\Win64\UE4Editor\Inc\Blank_Lab1\Blank_Lab1GameModeBase.generated.h
